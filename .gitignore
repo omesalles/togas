@@ -1,0 +1,17 @@
+data/*
+bin/*
+lib/*
+documents/*
+.ipynb_checkpoints/
+.lock
+.python-version
+CACHEDIR.TAG
+README.md
+lib64
+main.py
+pyproject.toml
+pyvenv.cfg
+scripts/*.R
+scripts/*.py
+scripts/__pycache__/*
+uv.lock
